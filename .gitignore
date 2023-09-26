@@ -1,0 +1,14 @@
+# Arquivos e pastas gerados pelo Node.js
+node_modules/
+dist/
+*.log
+
+# Arquivos de ambiente (opcional, dependendo do seu uso)
+.env
+.env.local
+
+# Outros
+.DS_Store
+./package-lock.json
+coverage/
+package-lock.json
